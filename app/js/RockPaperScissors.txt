@@ -34,7 +34,7 @@ function getPlayerMove(move) {
       player = move;
     }
       else {
-        result = ‘get input()’;
+        player = ‘get input()’;
     }
         return player;
 }
